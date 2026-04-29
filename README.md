@@ -3,8 +3,6 @@
 **Data Analyst | Transizione IT da sanità**  
 **Licenza: MIT**
 
-![Grafico](./grafico_attacchi.png)
-
 ## 📊 Top Attacchi
 | Attacco | Connessioni |
 |---------|-------------|

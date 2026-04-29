@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Portfolio | NSL-KDD Analysis
 
-**Data Analyst | Transizione IT da sanità**  
+**Data Analyst **  
 **Licenza: MIT**
 
 ## 📊 Top Attacchi

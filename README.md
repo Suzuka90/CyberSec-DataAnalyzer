@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Project | NSL-KDD Analysis
 
-**Data Analyst Portfolio**  
+**Data Analysis **  
 **Licenza: MIT**
 
 ## 📊 Top Attacchi Identificati

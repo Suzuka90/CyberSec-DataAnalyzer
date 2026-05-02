@@ -28,15 +28,18 @@ jupyter notebook
 <img src="grafico_attacchi.png" width="400" alt="Top 8 Cyber Attacks NSL-KDD Analysis">
 </div>
 
-| Attacco | Connessioni |
-|---------|-------------|
-| Normal  | 16,592     |
-| Neptune | 7,373      |
-| *smurf* | ...        |
+| Attacco   | Connessioni |
+|-----------|-------------|
+| Normal    | 16,592     |
+| Neptune   | 7,373      |
+| Smurf     | 2,647      |
+| Teardrop  | 978        |
+
 
 ## 💡 Insight
 - Dataset imbalanced: Normal 67% vs attacchi 33%.
 - Prossimo: ML anomaly detection Streamlit app.
+
 
 
 ## 📄 Licenza

@@ -25,11 +25,14 @@ Analizzo dataset di log di rete, attacchi DDoS e vulnerabilità per estrarre ins
 3. Esegui: `jupyter notebook analysis.ipynb`
 4. Esplora notebook per EDA e grafici.
 
-**Demo:** [Link Colab](https://colab.research.google.com/drive/... ) o aggiungi screenshot.
+## 📊 Demo & Risultati
+**Esplora l'analisi completa nel notebook caricato:**
 
-![EDA Sample](screenshot-eda.png) <!-- Aggiungi immagine grafico threats -->
+[![Apri Notebook](https://img.shields.io/badge/Visualizza-Notebook-blue?logo=jupyter)](Cybersecurity_data_analysis.ipynb) 
 
-![Threat Detection](screenshot-model.png)
+![Threat Detection](grafico_attacchi.png)
+
+**Dataset NSL-KDD:** Top 8 attacchi (Normal: 16.592, Neptune: 7.373) – EDA con Pandas/Matplotlib.[cite:21]
 
 ## 📊 Risultati Chiave
 - Riduzione falsi positivi del 20% con anomaly detection.

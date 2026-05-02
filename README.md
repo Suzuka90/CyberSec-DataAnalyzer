@@ -30,9 +30,9 @@ Analizzo dataset di log di rete, attacchi DDoS e vulnerabilità per estrarre ins
 
 [![Apri Notebook](https://img.shields.io/badge/Visualizza-Notebook-blue?logo=jupyter)](Cybersecurity_data_analysis.ipynb) 
 
-![Threat Detection](grafico_attacchi.png)
+![Threat Detection](grafico_attacchi.png){width=60% height=auto}
 
-**Dataset NSL-KDD:** Top 8 attacchi (Normal: 16.592, Neptune: 7.373) – EDA con Pandas/Matplotlib.[cite:21]
+**Dataset NSL-KDD:** Top 8 attacchi (Normal: 16.592, Neptune: 7.373) – EDA con Pandas/Matplotlib.
 
 ## 📊 Risultati Chiave
 - Riduzione falsi positivi del 20% con anomaly detection.
